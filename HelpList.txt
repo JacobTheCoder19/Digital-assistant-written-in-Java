@@ -1,0 +1,53 @@
+*******************************************************************************************************************************************************************************
+Command options for assistant:
+
+arduino:                                   Opens the Arduino IDE.
+
+calculator:                                Opens the calculator application.
+
+chat gpt:                                  Opens Chat GPT, logs the user in, and creates a new chat.
+
+classes:                                   Logs the user into their MyAkron and goes to their Brightspace classes section.
+
+discord:                                   Opens discord.
+
+disney:                                    Opens Disney+ on the user's web browser and logs them in.
+
+email:                                     Opens the user's email, logs them in, and goes to the inbox section.
+
+github:                                    Opens GitHub in the browser and signs the user in.
+
+google docs:                               Opens Google Docs and logs the user in on their web browser.
+
+google drive:				               Opens Google Drive and logs the user in on their web browser.
+
+graphing calculator:                       Opens desmos graphing calculator on the web browser.
+
+help:                                      Opens a help menu with a list of commands and their actions.
+
+instagram				                   Opens Instagram on the web browser and signs the user in.
+
+lego league: 				               Opens the lego league coaches dashboard and logs the user in.
+
+my akron:                                  Opens and logs the user into their MyAkron.
+
+notepad:                                   Opens the Notepad application.
+
+pdf converter:                             Opens a website which allows any file to be converted to a pdf and a pdf to be converted to any file
+
+spike: 					                   Opens the spike platform for lego robots.
+
+spotify:                                   Opens spotify and logs the user in on the web browser
+
+tiktok:                                    Opens TikTok on the browser and logs the user in.
+
+web:                                       Opens the laptop's default web browser.
+
+youtube:                                   Opens and logs the user into YouTube and goes to their home page.
+
+__________________________________________________________________
+
+/** NOTE: COMMANDS WILL ONLY WORK IF THEY ARE ALL LOWERCASE!!! **/
+__________________________________________________________________
+
+******************************************************************************************************************************************************************************
